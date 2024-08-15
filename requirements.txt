@@ -11,7 +11,7 @@ motor
 pillow
 psutil
 pyrogram==2.0.99
-py-tgcalls==0.8.6
+py-tgcalls==2.0.2
 pykeyboard
 pyrofork
 python-dotenv
